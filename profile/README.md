@@ -13,3 +13,9 @@ I'm helping companies build their products for years. I've witnessed countless s
 There's still some work I have to do before launching. I expect the next launch to happen in Q2 2023.
 
 In case you have any questions, feel free to reach out to [me](https://github.com/igorlamos).
+
+## Also check 👀
+
+- [@beplus](https://github.com/beplus)
+- [@bepluscloud](https://github.com/bepluscloud)
+- [@igorlamos](https://github.com/igorlamos)
